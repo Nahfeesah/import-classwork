@@ -1,6 +1,6 @@
-const myName = "Ibrahim Nofisat";
+// const myName = "Ibrahim Nofisat";
 function greet() {
-    console.log(`Hello, ${myName}`);
+    console.log(`Hello, ibrahim Nofisat`);
 }
 
-module.exports = { greet };
+module.exports = greet ;
